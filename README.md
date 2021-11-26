@@ -1,6 +1,6 @@
 [![Social banner for morpheuxdesign](https://github.com/morpheuxdesign/morpheuxdesign/raw/master/assets/Morpheux Design.svg)](https://www.morpheuxdesign.com)
 
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](mailto:admin@cloudhadoop.com/)
 <h1 align='center'> Hey There! :wave:</h1>
 <p align='center'>
 I'm Morpheux.
