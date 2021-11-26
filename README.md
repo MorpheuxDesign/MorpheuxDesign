@@ -5,7 +5,7 @@
 <p align='center'>
 I'm Morpheux.
 </p>
-<p align='center'>  For inquiries reach out to me at <a href="mailto:morpheux@morpheuxdesign.com/>Morpheux@MorpheuxDesign.com</a>,
+<p align='center'>  For inquiries reach out to me at <a href="mailto:morpheux@morpheuxdesign.com/">Morpheux@MorpheuxDesign.com</a>,
 <a href="https://www.facebook.com/Morpheux.Design">Facebook</a>,<a href="https://t.me/MorpheuxDesign">Telegram</a>,<a href="https://twitter.com/morpheuxdesign">Twitter</a>.</p>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
