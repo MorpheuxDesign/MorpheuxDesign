@@ -4,7 +4,7 @@
 I'm Morpheux.
 </p>
 <p align='center'> For enquiries, reach out morpheux@morpheuxdesign.com,
-<a href="https://www.facebook.com/Morpheux.Design" {:target="_blank"}>Facebook</a>,<a href="https://t.me/MorpheuxDesign" target="_blank">Telegram</a>,<a href="https://twitter.com/morpheuxdesign" target="_blank">Twitter</a>.</p>
+<a href="https://www.facebook.com/Morpheux.Design">Facebook</a>,<a href="https://t.me/MorpheuxDesign">Telegram</a>,<a href="https://twitter.com/morpheuxdesign">Twitter</a>.</p>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=morpheuxdesign.morpheuxdesign)
