@@ -20,7 +20,7 @@ I'm Morpheux.
 - 📫 How to reach me ...
 
 
-[![My GitHub's stats](https://github-readme-stats.vercel.app/api?username=morpheuxdesign&theme=dark)](https://github.com/morpheuxdesign/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=morpheuxdesign&theme=dark)](https://github.com/morpheuxdesign/github-readme-stats)
 <!---
 MorpheuxDesign/MorpheuxDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
