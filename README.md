@@ -3,7 +3,7 @@
 <p align='center'>
 I'm Morpheux.
 </p>
-<p align='center'> For enquiries, reach out morpheux@morpheuxdesign.com,
+<p align='center'>  For inquiries reach out to me at [morpheux@morpheuxdesign.com](mailto:morpheux@morpheuxdesign.com?subject=[GitHub]%20Source%20Han%20Sans),
 <a href="https://www.facebook.com/Morpheux.Design">Facebook</a>,<a href="https://t.me/MorpheuxDesign">Telegram</a>,<a href="https://twitter.com/morpheuxdesign">Twitter</a>.</p>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
