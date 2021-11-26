@@ -1,4 +1,4 @@
-[![Social banner for morpheuxdesign](https://github.com/morpheuxdesign/morpheuxdesign/raw/master/assets/Morpheux Design.svg)](https://www.morpheuxdesign.com)
+[![Social banner for morpheuxdesign](https://github.com/morpheuxdesign/morpheuxdesign/raw/master/assets/MorpheuxDesign.svg)](https://www.morpheuxdesign.com)
 
 <h1 align='center'> Hey There! :wave:</h1>
 <p align='center'>
