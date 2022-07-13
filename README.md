@@ -1,11 +1,11 @@
-[![Social banner for morpheuxdesign](https://github.com/morpheuxdesign/morpheuxdesign/blob/main/MorpheuxDesign.gif)](https://www.morpheuxdesign.com)
+[![Social banner for morpheuxdesign](https://github.com/morpheuxdesign/morpheuxdesign/blob/main/MorpheuxDesign.gif)](https://www.morbeusDesign.com)
 
 <h1 align='center'> Hey There! :wave:</h1>
 <p align='center'>
 I'm Morpheux.
 </p>
 <p align='center'>  For inquiries reach out to me at <a href="mailto:morpheux@morpheuxdesign.com">MyEmail</a>,
-<a href="https://www.facebook.com/Morpheux.Design">Facebook</a>,<a href="https://t.me/MorpheuxDesign">Telegram</a>,<a href="https://twitter.com/morpheuxdesign">Twitter</a>.</p>
+<a href="https://www.facebook.com/Morbeus.Design">Facebook</a>,<a href="https://t.me/MorbeusDesign">Telegram</a>,<a href="https://twitter.com/morbeusdesign">Twitter</a>.</p>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=morpheuxdesign.morpheuxdesign)
@@ -13,7 +13,7 @@ I'm Morpheux.
 
 
 
-- 👋 Hi, I’m @MorpheuxDesign
+- 👋 Hi, I’m @Morbeus
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
