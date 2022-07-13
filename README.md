@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hey There! :wave:</h1>
 <p align='center'>
-I'm Morpheux.
+I'm Morbeus.
 </p>
 <p align='center'>  For inquiries reach out to me at <a href="mailto:morpheux@morpheuxdesign.com">MyEmail</a>,
 <a href="https://www.facebook.com/Morbeus.Design">Facebook</a>,<a href="https://t.me/MorbeusDesign">Telegram</a>,<a href="https://twitter.com/morbeusdesign">Twitter</a>.</p>
